@@ -1,5 +1,5 @@
 # How I use GDB
-Collection of GDB commands that I use sometimes
+Collection of GDB commands that I use
 
 ### Exit point of a function
 Tells where a function returned.
